@@ -26,13 +26,76 @@ This course introduces students to both passive and active electronic components
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| Lecture and Lab 1 |  {{< br >}}{{< br >}} Electronic components (resistors, capacitors, inductors, diodes) {{< br >}}{{< br >}} Use of multimeters and oscilloscopes {{< br >}}{{< br >}} Construction and debugging of simple electronic circuits {{< br >}}{{< br >}} Soldering exercise {{< br >}}{{< br >}}  |
-| Lecture and Lab 2 | LEDs, bipolar junction transistors, MOSFETs, optical isolators, op amps |
-| Lecture and Lab 3 | More integrated circuits: 555 timers, voltage regulators, Zener diodes |
-| Lecture and Lab 4 | Digital ICs: inverters, counters, flip flops, shift registers, digital to analog converters |
-| Lecture and Lab 5 | Motors, AD/DA converters, digital design lab, wrap-up 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture and Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Electronic components (resistors, capacitors, inductors, diodes)
+
+Use of multimeters and oscilloscopes
+
+Construction and debugging of simple electronic circuits
+
+Soldering exercise
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture and Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+LEDs, bipolar junction transistors, MOSFETs, optical isolators, op amps
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture and Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+More integrated circuits: 555 timers, voltage regulators, Zener diodes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture and Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Digital ICs: inverters, counters, flip flops, shift registers, digital to analog converters
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture and Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+Motors, AD/DA converters, digital design lab, wrap-up
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grading
 -------
